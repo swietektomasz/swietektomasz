@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<svg height="30" width="200">
-  <text x="0" y="15" fill="red">Hello</text>
-</svg> 
+<img src="./picture.svg" alt="hello" />
 
 <!--
 **swietektomasz/swietektomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
