@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-<svg id="circle">
-   <g>
-  <circle cx="125" cy="125" r="100" stroke="darkblue" stroke-width="3" fill="green" />
-  <a xlink:href="https://www.google.co.uk/" target="_top">
-    <text x="50%" y="50%" style="text-anchor: middle">google</text>
-  </a>
-     </g>
-</svg>
+[<img src="https://deploy-preview-49--selleo.netlify.app/github-readme/social/linkedin">](http://linkedin.com/)
 
 <!--
 **swietektomasz/swietektomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
